@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+  	background-image: url('bckgr.jpg');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+	font-family: "sans-serif";
+}
+img{
+	align:right; width:"42"; height:"42";
+}
+h1{ 
+	text-indent: 2cm;}
+h2{
+	text-indent: 2cm;}
+p{
+	color: ivory;}
+li{
+	color: ivory;}
+div { 
+ 	 display: block; color: ivory;}
